@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text 
+> coffee, I like
+> hongru
 Use the left arrow to go back!
